@@ -1,6 +1,6 @@
 <?php
 
-use Appwrite\Extend\Exception;
+use Appwrite\Extend\Exception;   
 use Appwrite\Utopia\Database\Documents\User;
 use Appwrite\Utopia\Request;
 use MaxMind\Db\Reader;
